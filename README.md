@@ -23,7 +23,7 @@ Features :-
 15]Search Questions \
 16]Search Answers \
 17]Privacy policy \
-18]Feedback and Contact Page \
+18]Feedback and Contact Page 
 
 Admin Panel :-
 
@@ -34,7 +34,7 @@ Admin Panel :-
 5]All Answers with Delete n Edit \
 6]All Contact details n Delete \
 7]Dashboard \
-8]All feedbacks n Delete \
+8]All feedbacks n Delete 
 
 ****************************************************************************************************************
 ****************************************************************************************************************
