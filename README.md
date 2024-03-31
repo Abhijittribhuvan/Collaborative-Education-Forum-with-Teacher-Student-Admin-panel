@@ -1,3 +1,5 @@
+This collaborative education forum offers a robust platform for teachers and students, featuring secure authentication, OTP verification, pagination for subjects, questions, and answers, a teacher panel for subject management, user-friendly interface akin to Instagram, and protection against SQL injection and XSS attacks. Explore the demo links for a firsthand experience."
+
 # Collaborative-Education-Forum-with-Teacher-Student-Admin-panel
 
 # Forum bytecode-demo [https://bytecode.great-site.net]
