@@ -5,6 +5,9 @@ This collaborative education forum offers a robust platform for teachers and stu
 
 # Forum bytecode Admin Panel-demo [http://bytecode.great-site.net/bytecode/bytecode-panel]
 
+Admin Email : bytecode@gmail.com                                         
+Admin Password : codeVentures7385
+
 Features :-
 
 1]Sign Up and SignIn \
